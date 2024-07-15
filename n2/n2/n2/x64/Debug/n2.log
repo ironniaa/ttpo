@@ -1,0 +1,3 @@
+﻿  n2.cpp
+D:\sharaga\ТТПО\практика\4\4.2\n2\n2\n2\n2.cpp(42,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  n2.vcxproj -> D:\sharaga\ТТПО\практика\4\4.2\n2\n2\x64\Debug\n2.exe
